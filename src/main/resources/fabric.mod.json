@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "user-info",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "UserInfo",
+  "description": "Adds username and server to window title",
   "authors": [
-    "Me!"
+    "budi1200"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://budimir.si/",
+    "sources": "https://github.com/budi1200/UserInfo"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "si.budimir.userinfo.UserInfoMod"
     ]
   },
   "mixins": [
