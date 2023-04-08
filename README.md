@@ -2,4 +2,4 @@
 
 Adds current username and server address to window title
 
-Requires Minecraft 1.18.1
+Requires Minecraft 1.19.4
